@@ -1,6 +1,3 @@
 [submodule "autodoc-backend"]
 	path = autodoc-backend
 	url = https://github.com/dennisheraldi/autodoc-backend
-[submodule "autodoc-frontend"]
-	path = autodoc-frontend
-	url = https://github.com/dennisheraldi/autodoc-backend
